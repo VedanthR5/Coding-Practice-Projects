@@ -1,2 +1,2 @@
-# USACO-Practice-Problems
-A repository of my USACO prep
+# Coding Practice Projects
+A repository of my some of my coding prep for fun, UIL CS, and USACO!
